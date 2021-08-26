@@ -181,7 +181,7 @@ local function HYEZ_fake_script() -- YES.LocalScript
 		if not alrclicked then
 			alrclicked = true
 			script.Parent.Parent.Visible = false
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/iShield2005/scripts/master/bh-nogui-loader", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/KoalaKOA/brokenhub/main/bh-nogui-loader", true))()
 		end
 	end)
 end
